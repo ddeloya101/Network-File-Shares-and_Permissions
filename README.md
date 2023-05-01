@@ -1,9 +1,8 @@
-# Network-File-Shares-and_Permissions
+# Network File Shares and Permissions
 <p align="center">
 <img src="https://i.imgur.com/AeiqMDZ.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network-File-Shares-and-Permissions</h1>
 In this tutorial, I give a brief overview of file share and permissions on Windows 10. <br />
 
 <h2>Environments and Technologies Used</h2>
